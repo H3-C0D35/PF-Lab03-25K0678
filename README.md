@@ -1,11 +1,11 @@
 # BSCS FALL 2025
 ***HI IM ANZALNA***\
-## THINGS I LIKE:
+THINGS I LIKE:\
 + computers
 - sports
 * cats
 
-## SPORTS:
+SPORTS:\
 1. Badminton
 2. Basketball
 3. Cricket
